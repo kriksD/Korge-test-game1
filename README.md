@@ -5,4 +5,5 @@ Kotlin 1.7.10
 Also used Box2d
 
 KorGE website: https://korge.org
+
 KorGE repository: https://github.com/korlibs/korge
